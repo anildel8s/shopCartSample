@@ -4,3 +4,5 @@
 
 # Method 2: Navigate to the project folder and execute below command line
 # behave -f allure_behave.formatter:AllureFormatter -o Screenshot 
+
+#Reports will be added to Screenshot folder
